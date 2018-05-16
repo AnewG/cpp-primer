@@ -10,4 +10,6 @@ http://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html
 std::cout << "xxx"
 "yyy"
 
+有的前缀/有的后缀 -> 指定字面值类型 如: L'a' u8"hi" 42ULL
+
 ```
