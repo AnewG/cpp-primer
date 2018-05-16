@@ -6,4 +6,8 @@
 
 http://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html
 
+多行字符串字面值
+std::cout << "xxx"
+"yyy"
+
 ```
