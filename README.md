@@ -17,4 +17,8 @@ extern int i; // 声明而非定义
 int j;        // 声明并定义为默认值
 变量能且只能被定义一次，但可以多次声明
 
+引用(reference)
+int ival = 1024;
+int &refVal = ival; // refVal 是 ival 另一个名字
+
 ```
