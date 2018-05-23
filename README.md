@@ -19,7 +19,7 @@ int j;        // 声明并定义为默认值
 
 引用(reference)
 int ival = 1024;
-int &refVal = ival; // refVal 是 ival 另一个名字, refVal 不可再改变
+int &refVal = ival; // refVal 是 ival 另一个名字
 
 int* p1;int* p2; == int *p1, *p2
 
