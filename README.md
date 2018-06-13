@@ -48,6 +48,7 @@ const int *const xxx: 右侧顶层const, 左侧底层const, 这个指针同时�
 一般允许非常量向常量转，反之不行。
 
 https://www.cnblogs.com/alephsoul-alephsoul/archive/2012/10/10/2719192.html
+https://www.cnblogs.com/Philip-Tell-Truth/p/6370019.html
 
 ====================
 
