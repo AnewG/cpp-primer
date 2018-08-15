@@ -56,4 +56,11 @@ https://www.cnblogs.com/Philip-Tell-Truth/p/6370019.html
 
 ```
 String, Vector, Array
+
+string::size_type 为无符号类型
+
+====================
+
+Vector 某种对象的容器[多个，通过索引访问]
+
 ```
