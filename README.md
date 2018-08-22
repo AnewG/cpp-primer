@@ -65,4 +65,6 @@ Vector 某种对象的容器[多个，通过索引访问]
 
 vector<int> ivec; // 指的是编译器根据 模版vector 加上附加信息 int，生成了 ivec。一个空vector，不含任何元素
 
+效率最高的方式为先建立空 vector，再动态添加或删减元素
+
 ```
