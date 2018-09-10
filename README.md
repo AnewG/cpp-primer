@@ -77,4 +77,8 @@ int ia[] = {0,1,2,3,4,5,6,7,8,9};
 int *beg = begin(ia);
 int *last = end(ia);
 
+int *p = &ia[2];
+int j = p[1]; // ia[3]
+int k = p[-2];  // ia[0]
+
 ```
